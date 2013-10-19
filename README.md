@@ -4,7 +4,7 @@
 
 ## License
 
-The MIT License (MIT)
+The Whatever License (w/e)
 
 Copyright (c) 2013 Brian Ford
 

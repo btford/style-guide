@@ -1,6 +1,6 @@
 # style-guide
 
-1. Just do whatever you want
+1. Use coffee-script
 
 ## License
 MIT
